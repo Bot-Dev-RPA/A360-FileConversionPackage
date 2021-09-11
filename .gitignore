@@ -1,3 +1,4 @@
 build/resources/main/test_files/Output/
-src/main/resources/test_files/Output/
+src/main/resources/test_files/
 build/libs/
+src/test/test_files
